@@ -1,2 +1,6 @@
 test1
+<<<<<<< HEAD
 edited by branch master
+=======
+editied by branch dev1
+>>>>>>> dev1
