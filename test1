@@ -1,6 +1,16 @@
 test1
 <<<<<<< HEAD
+<<<<<<< HEAD
 edited by branch master
 =======
 editied by branch dev1
 >>>>>>> dev1
+=======
+
+
+
+
+
+editest by dev2
+
+>>>>>>> dev2
